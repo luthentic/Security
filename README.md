@@ -7,6 +7,8 @@
  2. [MITM](#mitm)
  3. [Phishing](#Phishing)
  4. [Ransomware](#ransomware)
+ 5. [Password Attack](#password-attack)
+ 6. [SQL Injection](#sql-injection)
 
 
 
@@ -55,4 +57,22 @@
 ---
 
 ## Randsomeware: 
+ - Ransomware is a type of malicious software, or malware, that prevents you from accessing your computer files, systems, or networks and demands you pay a ransom for their return.
+Ransomw are attacks can cause significant data loss and financial damage.
+ - The attacker usually demands the ransom in a form of cryptocurrency, such as Bitcoin, to maintain anonymity.
+ - There are different types of ransomware, including scareware, screen lockers, and encryption ransomware.
+ - Ransomware can be spread through email attachments, infected software apps, infected external storage devices, and compromised websites, though a majority are spread through phishing emails.
 
+---
+
+## Password Attack:
+ - A password attack is a type of cyber attack where an attacker tries to gain unauthorized access to a system or network by cracking the passwords.
+ - Brute-Force Attack: In this type of attack, the attacker tries all possible combinations of passwords until the correct one is found. This can be time-consuming but is guaranteed to find the password eventually.
+ - Dictionary Attack: This is a method of breaking a password by trying all the words in a pre-arranged listing, typically derived from a list of words such as in a dictionary (hence the phrase dictionary attack).
+ - Keylogger Attack: This involves the use of a program to record every keystroke made by a user in order to capture the user’s password.
+ - Phishing: The attacker tricks the user into revealing their password. This is often done through deceptive email and websites.
+ - Rainbow Table Attack: A rainbow table is a precomputed table for reversing cryptographic hash functions, usually for cracking password hashes. These tables allow attackers to reverse a password hash to its original password.
+
+--- 
+
+## SQL injection:
