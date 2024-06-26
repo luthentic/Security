@@ -3,16 +3,29 @@
 </p>
 
 ## 🚩 Table of Contents
- 1. [DDoS](#ddos)
- 2. [MITM](#mitm)
- 3. [Phishing](#Phishing)
- 4. [Ransomware](#ransomware)
- 5. [Password Attack](#password-attack)
- 6. [SQL Injection](#sql-injection)
+ 1. [Vulnerabilities](#vulnerabilities) 
+ 2. [DDoS](#ddos)
+ 3. [MITM](#mitm)
+ 4. [Phishing](#Phishing)
+ 5. [Ransomware](#ransomware)
+ 6. [Password Attack](#password-attack)
+ 7. [SQL Injection](#sql-injection)
 
 
 
 ---
+
+## Vulnerabilities:
+- Sotware Bugs
+- Misconfigured Software
+- Improperly Protected Network Devices
+- Missing Security Patches
+
+Threat + No Vulneralities = Zero Risk 
+No Threat + Vulneralities = Zero Risk 
+
+---
+
 
 ## DDos:
  - A DoS attack is a cyber attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to the Internet.
