@@ -10,6 +10,7 @@
  5. [Ransomware](#ransomware)
  6. [Password Attack](#password-attack)
  7. [SQL Injection](#sql-injection)
+ 8. [Security Frameworks](#security-frameworks)
 
 
 
@@ -89,3 +90,19 @@ Ransomw are attacks can cause significant data loss and financial damage.
 --- 
 
 ## SQL injection:
+
+
+
+
+---
+
+
+## Security Frameworks:
+
+A cybersecurity framework is a set of guidelines designed to help organizations mitigate cybersecurity risks. It provides a structured approach to managing cybersecurity risks and protecting valuable information assets.
+
+- ISO 27000 series:
+  
+
+
+
