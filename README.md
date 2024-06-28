@@ -56,12 +56,6 @@ No Threat + Vulneralities = Zero Risk
  - An attack can have devastating results. For individuals, this includes unauthorized purchases, the stealing of funds, or identify theft.
  - Furthermore, phishing is often used to gain a foothold in corporate or governmental networks as a part of a larger attack, such as an advanced persistent threat (APT) event.
 
-## Whale Phishing Attack:
- - Whale phishing, also known as whaling, is a specific type of phishing attack that targets high-profile employees, such as the CEO or CFO, in order to steal sensitive information from a company. These high-profile individuals are referred to as ‘whales,’ hence the name.
- - The attackers often spend considerable time profiling the target to create a sophisticated attack.
- - Whaling emails and websites are highly customized and personalized, and they often include the target’s name, job title, and other relevant information to make the attack more convincing.
- - The content of a whaling attack email is often written as a legal subpoena, customer complaint, or executive issue, which is likely to trick the recipient into responding.
- - Whaling attacks are usually more difficult to detect because they don’t contain a malicious link or attachment, but aim to trick the victim into divulging sensitive information, often through a fake website.
 
 ## Spear-phishing attacks: 
  - Whale spear-phishing is a more targeted version of phishing. It’s a cyber attack that is specifically aimed at high-profile targets like senior executives (the ‘whales’) within a business or other organization.
