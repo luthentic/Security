@@ -10,7 +10,8 @@
  5. [Ransomware](#ransomware)
  6. [Password Attack](#password-attack)
  7. [SQL Injection](#sql-injection)
- 8. [Security Frameworks](#security-frameworks)
+ 8. [URL interpretation](#url-interpretation)
+ 9. [Security Frameworks](#security-frameworks)
 
 
 
