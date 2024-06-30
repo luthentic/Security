@@ -3,19 +3,16 @@
 </p>
 
 ## 🚩 Table of Contents
- 1. [Vulnerabilities](#vulnerabilities) 
- 2. [DDoS](#ddos)
- 3. [MITM](#mitm)
- 4. [Phishing](#Phishing)
- 5. [Ransomware](#ransomware)
- 6. [Password Attack](#password-attack)
- 7. [SQL Injection](#sql-injection)
- 8. [URL interpretation](#url-interpretation)
- 9. [Security Frameworks](#security-frameworks)
+ 1. [Cyber Attacks](#cyber-attacks)
+ 2. [Security Frameworks](#security-frameworks)
+ 3. 
 
 
 
 ---
+
+## Cyber Attacks:
+
 
 ## Vulnerabilities:
 - Sotware Bugs
@@ -27,7 +24,6 @@ Threat + No Vulneralities = Zero Risk
 No Threat + Vulneralities = Zero Risk 
 
 ---
-
 
 ## DDos:
  - A DoS attack is a cyber attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to the Internet.
@@ -90,6 +86,8 @@ Ransomw are attacks can cause significant data loss and financial damage.
 
 
 ---
+
+
 
 
 ## Security Frameworks:
