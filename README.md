@@ -5,8 +5,6 @@
 ## 🚩 Table of Contents
  1. [Cyber Attacks](#cyber-attacks)
  2. [Security Frameworks](#security-frameworks)
- 3. 
-
 
 
 ---
@@ -82,7 +80,11 @@ Ransomw are attacks can cause significant data loss and financial damage.
 
 ## SQL injection:
 
-
+- A common method of exploiting websites that rely on databases. It involves sending an SQL query from a client computer to a server database.
+- Injection Process: The malicious command is inserted, or “injected”, into a data plane in place of normal data, such as a password or login. The server then executes the command, leading to system penetration.
+- Potential Consequences: If successful, an SQL injection can lead to the release, modification, or deletion of sensitive data. It can also allow attackers to execute administrative operations, such as a shutdown command, disrupting the database’s function.
+- Prevention Strategy: Implement a least-privileged model, where only necessary personnel have access to key databases. This limits access to sensitive areas of the network, even for high-ranking individuals within the organization if their roles do not require it.
+- Example: A CEO might be restricted from accessing certain network areas, even if they have the right to know the contents. This policy helps prevent both malicious actors and well-intentioned individuals who might inadvertently leave their login credentials exposed or their workstations unattended.
 
 
 ---
