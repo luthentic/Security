@@ -89,7 +89,18 @@ Ransomw are attacks can cause significant data loss and financial damage.
 
 ---
 
+## URL Interpretation: 
+- URL interpretation is a type of cyber attack where attackers alter and fabricate URL addresses to gain unauthorized access to personal and professional data.
+This attack is also known as URL poisoning.
+- The attacker understands the syntax of a webpage’s URL and uses this knowledge to access areas they shouldn’t have access to.
+- To execute a URL interpretation attack, a hacker may guess URLs to gain administrator privileges or access the site’s back end to get into a user’s account.
+- Once they access the desired page, they can manipulate the site or gain access to sensitive user information.
+- An example of this attack could be a hacker trying to access the admin section of a site by typing in the site’s URL followed by ‘/admin’. This could lead them to an admin login page.
+- In some cases, the admin username and password may be the default “admin” and “admin” or very easy to guess. The attacker may also have already figured out the admin’s password or narrowed it down to a few possibilities.
+- Once the attacker gains access, they can manipulate, steal, or delete data at will.
+- To prevent URL interpretation attacks, use secure authentication methods for any sensitive areas of your site. This may include multi-factor authentication (MFA) or secure passwords consisting of seemingly random characters.
 
+---
 
 
 ## Security Frameworks:
