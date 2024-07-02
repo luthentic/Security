@@ -66,15 +66,6 @@ Ransomw are attacks can cause significant data loss and financial damage.
  - There are different types of ransomware, including scareware, screen lockers, and encryption ransomware.
  - Ransomware can be spread through email attachments, infected software apps, infected external storage devices, and compromised websites, though a majority are spread through phishing emails.
 
----
-
-## Password Attack:
- - A password attack is a type of cyber attack where an attacker tries to gain unauthorized access to a system or network by cracking the passwords.
- - Brute-Force Attack: In this type of attack, the attacker tries all possible combinations of passwords until the correct one is found. This can be time-consuming but is guaranteed to find the password eventually.
- - Dictionary Attack: This is a method of breaking a password by trying all the words in a pre-arranged listing, typically derived from a list of words such as in a dictionary (hence the phrase dictionary attack).
- - Keylogger Attack: This involves the use of a program to record every keystroke made by a user in order to capture the user’s password.
- - Phishing: The attacker tricks the user into revealing their password. This is often done through deceptive email and websites.
- - Rainbow Table Attack: A rainbow table is a precomputed table for reversing cryptographic hash functions, usually for cracking password hashes. These tables allow attackers to reverse a password hash to its original password.
 
 --- 
 
@@ -101,6 +92,27 @@ This attack is also known as URL poisoning.
 - To prevent URL interpretation attacks, use secure authentication methods for any sensitive areas of your site. This may include multi-factor authentication (MFA) or secure passwords consisting of seemingly random characters.
 
 ---
+
+## DNS Spoofing:
+- DNS spoofing is a type of cyber attack where a hacker alters DNS records to redirect traffic to a fake or “spoofed” website.
+- Once on the fraudulent site, the victim may enter sensitive information that the hacker can use or sell.
+- The hacker may also create a poor-quality site with derogatory or inflammatory content to tarnish the reputation of a competitor company.
+- In a DNS spoofing attack, the attacker capitalizes on the user’s belief that the site they are visiting is legitimate. This allows the attacker to commit crimes in the name of an innocent company, at least from the perspective of the visitor.
+- To prevent DNS spoofing, it’s important to keep your DNS servers up-to-date. Attackers aim to exploit vulnerabilities in DNS servers, and the most recent software versions often contain fixes that close known vulnerabilities.
+
+---
+
+
+## Session Hijacking:
+- Session hijacking is a type of Man-in-the-Middle (MITM) attack where the attacker takes over a session between a client and a server.
+- The attacker’s computer substitutes its Internet Protocol (IP) address for that of the client’s computer. The server continues the session, believing it is communicating with the client.
+- This attack is effective because the server uses the client’s IP address to verify its identity. If the attacker’s IP address is inserted partway through the session, the server may not suspect a breach because it is already engaged in a trusted connection.
+- To prevent session hijacking, use a Virtual Private Network (VPN) to access business-critical servers. This way, all communication is encrypted, and an attacker cannot gain access to the secure tunnel created by the VPN.
+
+---
+
+
+
 
 
 ## Security Frameworks:
