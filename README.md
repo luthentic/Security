@@ -119,7 +119,54 @@ This attack is also known as URL poisoning.
 
 A cybersecurity framework is a set of guidelines designed to help organizations mitigate cybersecurity risks. It provides a structured approach to managing cybersecurity risks and protecting valuable information assets.
 
-- ISO 27000 series:
+## NIST Cybersecurity Framework: US federal guidance1
+
+- The NIST CSF is a set of optional standards, best practices, and recommendations for improving cybersecurity and risk management at the organizational level1.
+- It provides guidance to industry, government agencies, and other organizations to manage cybersecurity risks2.
+- The CSF offers a taxonomy of high-level cybersecurity outcomes that can be used by any organization — regardless of its size, sector, or maturity2.
+- It helps businesses of all sizes better understand, manage, and reduce their cybersecurity risk and protect their networks and data3.
+- The Framework is voluntary and gives your business an outline of best practices to help you decide where to focus your time and money for cybersecurity protection3.
+- The CSF does not prescribe how outcomes should be achieved. Rather, it links to online resources that provide additional guidance on practices and controls that could be used to achieve those outcomes2.
+- The NIST CSF 2.0 has been released, along with other supplementary resources4.
+- It provides a reasonable base level of cyber security and establishes basic processes and essential controls for cybersecurity5.
+- It is particularly useful for private sector organizations that own, operate, or supply critical infrastructure5.
+- The NIST CSF 2.0 also provides templates and useful resources for creating and using both CSF profiles
+
+## COBIT: ISACA framework1
+
+## ANSI/TIA-568: Industrial automation standard1
+
+## ISO IEC 27001/ISO 27002: International standards1
+
+## IASME Governance: UK SME certification1
+
+## SOC 2: AICPA framework1
+
+## CIS v7: CIS best practices1
+
+## COSO: Risk management framework1
+
+## TC CYBER: European telecom standard1
+
+## HITRUST CSF: Healthcare industry framework1
+
+## CISQ: Software quality standard1
+
+## FedRAMP: Cloud migration program1
+
+## HIPAA: Health data regulation1
+
+## GDPR: EU data protection law1
+
+## FISMA: Federal security act1
+
+## NY DFS: Financial services regulation1
+
+## NERC CIP: Electric reliability standard1
+
+## SCAP: Security automation protocol1
+
+  
   
 
 
