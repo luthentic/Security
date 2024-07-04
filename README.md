@@ -5,7 +5,7 @@
 ## 🚩 Table of Contents
  1. [Cyber Attacks](#cyber-attacks)
  2. [Security Frameworks](#security-frameworks)
-
+ 3. [SOC](#soc)
 
 ---
 
@@ -166,8 +166,35 @@ A cybersecurity framework is a set of guidelines designed to help organizations 
 
 ## SCAP: Security automation protocol1
 
-  
-  
+---
 
 
+## SOC: 
+(Security Operations Center) Its main role is to continuously monitor, investigate, prevent, and respond to cyber threats. The SOC team is responsible for protecting various assets like intellectual property, personnel data, business systems, and brand integrity. The team size can vary based on the organization’s size.
 
+### Preparation and Prevention: 
+- As a Junior Security Analyst, staying updated with current cybersecurity threats is crucial. This involves threat detection, security roadmap creation, and preparedness for worst-case scenarios.
+- Prevention methods include gathering data on latest threats, threat actors, and their TTPs (Tactics, Techniques, and Procedures).
+- Maintenance procedures involve updating firewall signatures, patching system vulnerabilities, and managing block-lists and safe-lists for applications, email addresses, and IPs.
+- For understanding TTPs, refer to alerts like the one from CISA on APT40 (Chinese Advanced Persistent Threat).
+### Monitoring and Investigation: 
+- The SOC team uses tools like SIEM (Security Information and Event Management) and EDR (Endpoint Detection and Response) to monitor network activities.
+- Alerts are prioritized based on their level: Low, Medium, High, and Critical, starting from the highest level.
+- Junior Security Analysts play a key role in investigating alerts, understanding attack mechanisms, and preventing potential damage.
+- The investigation involves asking “How? When, and why?” and finding answers by analyzing data logs and alerts, often using open-source tools.
+### Response: 
+Post-investigation, the SOC team takes action on compromised hosts, which may involve isolating them from the network, terminating malicious processes, deleting files, etc.
+
+
+---
+
+## Hash Values:
+
+### MD5 (Message Digest): 
+Designed by Ron Rivest in 1992, it’s a cryptographic hash function that produces a 128-bit hash value. However, MD5 hashes are not considered secure due to vulnerability to attacks, including hash collision.
+
+### SHA-1 (Secure Hash Algorithm 1):
+Invented by the United States National Security Agency in 1995, it produces a 160-bit hash value string as a 40 digit hexadecimal number. Due to susceptibility to brute-force attacks, its use was deprecated by NIST in 2011, especially for digital signatures. NIST recommends migrating to stronger hash algorithms like SHA-2 and SHA-3.
+
+### SHA-2 (Secure Hash Algorithm 2): 
+Designed by NIST and the NSA in 2001 to replace SHA-1. It has several variants, with SHA-256 being the most common. The SHA-256 algorithm produces a 256-bit hash value as a 64 digit hexadecimal number.
