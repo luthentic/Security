@@ -6,6 +6,7 @@
  1. [Cyber Attacks](#cyber-attacks)
  2. [Security Frameworks](#security-frameworks)
  3. [SOC](#soc)
+ 4. [OSI Threats](#osi-threats)
 
 ---
 
@@ -198,3 +199,64 @@ Invented by the United States National Security Agency in 1995, it produces a 16
 
 ### SHA-2 (Secure Hash Algorithm 2): 
 Designed by NIST and the NSA in 2001 to replace SHA-1. It has several variants, with SHA-256 being the most common. The SHA-256 algorithm produces a 256-bit hash value as a 64 digit hexadecimal number.
+
+---
+
+## OSI Threats:
+
+### Physical Layer Threats:
+- Malicious Insiders: Individuals within the organization can pose a threat by tampering with the physical components.
+- Malfunction or Sabotage: The physical layer can be compromised through intentional damage or malfunction of the hardware.
+- Degradation and Overload: The physical layer can be affected by degradation of components or overload of the system.
+- Natural Disasters: Environmental factors such as temperature, humidity, and electrical interference from other equipment can also pose threats.
+- Denial of Service (DoS) Attacks: These attacks aim to halt all network functions, often targeting the physical layer.
+- Eavesdropping and Data Theft: Cybercriminals can exploit vulnerabilities to access traffic, steal sensitive information, or even cut cables and unplug devices.
+- Physical Access: Unauthorized individuals gaining physical access to the infrastructure can pose a significant threat.
+
+### Data Link Layer Threats:
+- Frame Manipulation: Malicious actors can compromise data by viewing or manipulating the frames, which are pieces of information that are part of the transmission.
+- Overload: The data link layer can suffer from overload, leading to degraded performance1.
+- MAC Address Spoofing: Attackers can impersonate a device by spoofing its Media Access Control (MAC) address.
+- MAC Address Flooding: This attack overwhelms a network switch’s memory by flooding it with data frames that have different source MAC addresses.
+- Virtual Local Area Network (LAN) Circumvention: Attackers can bypass network segmentation and gain unauthorized access to sensitive information.
+- Address Resolution Protocol (ARP) Poisoning: This attack involves sending falsified ARP messages over a local area network to link the attacker’s MAC address with the IP address of a legitimate computer or server on the network
+
+### Network Layer Threats:
+- Overloading: The network can be overloaded with excessive data, causing it to slow down or crash.
+- Spoofing: Attackers can deceive the network by pretending to be another device or user.
+- Sniffing: Cybercriminals can intercept and steal data as it travels across the network.
+- Man-in-the-Middle Attacks: Attackers can intercept and potentially alter the communication between two parties without their knowledge.
+- Exploitation of Vulnerabilities: Attackers can exploit known vulnerabilities in the network layer protocols to gain unauthorized access or disrupt services.
+
+### Protocols Used at Network Layer:
+- IP
+- IPsec
+- ICMP
+- IGMP
+- GRE
+
+### Transport Layer Threats: 
+- Sniffing: This involves intercepting and possibly altering data related to ports and protocols.
+- Distributed Denial of Services (DDoS) Attacks: These attacks aim to overwhelm the target with traffic, causing a shutdown of services.
+- SYN Floods: In this type of attack, an attacker initiates many connections to a server using a spoofed IP address, without waiting for a connection to finalize.
+- Smurf Attacks: These attacks use malware to overload network resources, resulting in an infinite loop of requests.
+- Reconnaissance: The transport layer can be used by malicious actors to gather information about the target’s environment.
+
+### Protocols Used at Transport Layer:
+- Transmission Control Protocol (TCP)
+- User Datagram Protocol (UDP)
+- Stream Control Transmission Protocol (SCTP)
+- Datagram Congestion Control Protocol (DCCP)
+- AppleTalk Transaction Protocol (ATP)
+- Fibre Channel Protocol (FCP)
+- Reliable Data Protocol (RDP)
+- Reliable User Data Protocol (RUDP)
+- Structured Steam Transport (SST)
+- Sequenced Packet Exchange (SPX)
+
+### Session Layer Threats: 
+- Session Hijacking: This involves taking control of a user session after successfully obtaining or generating an authentication session ID. Session hijacking can occur in various ways, including cross-site scripting, sidejacking, fixation, cookie theft, and brute force attempts.
+- Code Flaws: Attacks at this layer are often related to flaws in code, allowing attackers to implement their own code into your network and extract data.
+- FTP Sniffing: File Transfer Protocol (FTP) on its own is not secure. While many organizations have moved to secure FTP solutions such as SFTP (securing with SSH) or FTPS (securing with SSL), unsecured FTP is still prevalent and can be exploited.
+
+
