@@ -121,39 +121,48 @@ A cybersecurity framework is a set of guidelines designed to help organizations 
 - It is particularly useful for private sector organizations that own, operate, or supply critical infrastructure5.
 - The NIST CSF 2.0 also provides templates and useful resources for creating and using both CSF profiles
 
-## COBIT: ISACA framework1
+- https://www.youtube.com/watch?v=dbNCF5HTBFc
+- https://www.youtube.com/watch?v=Ula3TG8QS7g
+- https://www.nist.gov/cyberframework
+- https://www.reddit.com/r/Netwrix/comments/p20kax/what_is_the_nist_cybersecurity_framework/
 
-## ANSI/TIA-568: Industrial automation standard1
 
-## ISO IEC 27001/ISO 27002: International standards1
 
-## IASME Governance: UK SME certification1
+## COBIT: ISACA framework:
 
-## SOC 2: AICPA framework1
+- https://www.isaca.org/resources/cobit
 
-## CIS v7: CIS best practices1
+## ANSI/TIA-568: Industrial automation standards:
 
-## COSO: Risk management framework1
+## ISO IEC 27001/ISO 27002: International standards:
 
-## TC CYBER: European telecom standard1
+## IASME Governance: UK SME certification:
 
-## HITRUST CSF: Healthcare industry framework1
+## SOC 2: AICPA framework:
 
-## CISQ: Software quality standard1
+## CIS v7: CIS best practices:
 
-## FedRAMP: Cloud migration program1
+## COSO: Risk management framework:
 
-## HIPAA: Health data regulation1
+## TC CYBER: European telecom standard:
 
-## GDPR: EU data protection law1
+## HITRUST CSF: Healthcare industry framework:
 
-## FISMA: Federal security act1
+## CISQ: Software quality standard:
 
-## NY DFS: Financial services regulation1
+## FedRAMP: Cloud migration program:
 
-## NERC CIP: Electric reliability standard1
+## HIPAA: Health data regulation:
 
-## SCAP: Security automation protocol1
+## GDPR: EU data protection law:
+
+## FISMA: Federal security act:
+
+## NY DFS: Financial services regulation:
+
+## NERC CIP: Electric reliability standard:
+
+## SCAP: Security automation protocol:
 
 ---
 
