@@ -108,7 +108,7 @@ This attack is also known as URL poisoning.
 
 A cybersecurity framework is a set of guidelines designed to help organizations mitigate cybersecurity risks. It provides a structured approach to managing cybersecurity risks and protecting valuable information assets.
 
-## NIST Cybersecurity Framework: US federal guidance1
+## NIST CSF:
 
 - The NIST CSF is a set of optional standards, best practices, and recommendations for improving cybersecurity and risk management at the organizational level1.
 - It provides guidance to industry, government agencies, and other organizations to manage cybersecurity risks2.
@@ -125,44 +125,8 @@ A cybersecurity framework is a set of guidelines designed to help organizations 
 - https://www.youtube.com/watch?v=Ula3TG8QS7g
 - https://www.nist.gov/cyberframework
 - https://www.reddit.com/r/Netwrix/comments/p20kax/what_is_the_nist_cybersecurity_framework/
+- https://www.youtube.com/watch?v=vPpur6s4a1A
 
-
-
-## COBIT: ISACA framework:
-
-- https://www.isaca.org/resources/cobit
-
-## ANSI/TIA-568: Industrial automation standards:
-
-## ISO IEC 27001/ISO 27002: International standards:
-
-## IASME Governance: UK SME certification:
-
-## SOC 2: AICPA framework:
-
-## CIS v7: CIS best practices:
-
-## COSO: Risk management framework:
-
-## TC CYBER: European telecom standard:
-
-## HITRUST CSF: Healthcare industry framework:
-
-## CISQ: Software quality standard:
-
-## FedRAMP: Cloud migration program:
-
-## HIPAA: Health data regulation:
-
-## GDPR: EU data protection law:
-
-## FISMA: Federal security act:
-
-## NY DFS: Financial services regulation:
-
-## NERC CIP: Electric reliability standard:
-
-## SCAP: Security automation protocol:
 
 ---
 
