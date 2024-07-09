@@ -5,8 +5,9 @@
 ## 🚩 Table of Contents
  1. [Cyber Attacks](#cyber-attacks)
  2. [Security Frameworks](#security-frameworks)
- 3. [SOC](#soc)
- 4. [OSI Threats](#osi-threats)
+ 3. [Hash Values](#hash-values)
+ 4. [SOC](#soc)
+ 5. [OSI Threats](#osi-threats)
 
 ---
 
